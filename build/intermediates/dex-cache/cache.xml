@@ -1,2 +1,124 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/ege/Desktop/XYZreader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/ege/Desktop/XYZreader-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_69ed0fcfd7e743a38c6054af0b65f088ddbafeed.jar" />
+    </item>
+    <item
+        jar="/Users/ege/Desktop/XYZreader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/ege/Desktop/XYZreader-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_e87aee0db463df7af45a0e014060ab7eb963247d.jar" />
+    </item>
+    <item
+        jar="/Users/ege/Desktop/XYZreader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/ege/Desktop/XYZreader-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_cc38fba3f4582d292b436d56af93e58c091e28f2.jar" />
+    </item>
+    <item
+        jar="/Users/ege/Desktop/XYZreader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="bcee2598dbb74f6d043225a0d7e178b0c7ea4006">
+        <dex dex="/Users/ege/Desktop/XYZreader-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-23.2.1_89a3fd522604e3f982a50ab12cb8d4fd04cc0d88.jar" />
+    </item>
+    <item
+        jar="/Users/ege/Desktop/XYZreader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b95d10913c24f217dca25ccfb8293a04ebfed3a8">
+        <dex dex="/Users/ege/Desktop/XYZreader-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v13-23.2.1_1b73b60953eee0987df156aa58f36f5b2e41cda0.jar" />
+    </item>
+    <item
+        jar="/Users/ege/Desktop/XYZreader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/ege/Desktop/XYZreader-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_9ae31e65615283186f9813b004486b130deee73d.jar" />
+    </item>
+    <item
+        jar="/Users/ege/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/ege/Desktop/XYZreader-master/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0_44d4e25becf5a738732247212ccba589336f0dae.jar" />
+    </item>
+    <item
+        jar="/Users/ege/Desktop/XYZreader-master/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="82c97ee31f4d3c5cf5e246100b116c4eb63b652e">
+        <dex dex="/Users/ege/Desktop/XYZreader-master/XYZReader/build/intermediates/pre-dexed/debug/instant-run-bootstrap_9c9671bd15e4b7e5929e95e240f98b9b932b4e0a.jar" />
+    </item>
+    <item
+        jar="/Users/ege/Desktop/XYZreader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/ege/Desktop/XYZreader-master/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_923f35e0ddcfbf1e620b8a48ecfd744816f8a908.jar" />
+    </item>
+    <item
+        jar="/Users/ege/Desktop/XYZreader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="/Users/ege/Desktop/XYZreader-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.2.1_0d674a90d2fb7e6ddc8d933bba4d5a9f5b714023.jar" />
+    </item>
+    <item
+        jar="/Users/ege/Desktop/XYZreader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/ege/Desktop/XYZreader-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_c8b92245bf640619791b013850d2914c9b04b729.jar" />
+    </item>
+    <item
+        jar="/Users/ege/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/ege/Desktop/XYZreader-master/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2_c45c1bf416e2295debc4c8f661f308991139091a.jar" />
+    </item>
+    <item
+        jar="/Users/ege/Desktop/XYZreader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="bd48446a8b4b2fdcac0e38f49b5d6dc3abb1eefa">
+        <dex dex="/Users/ege/Desktop/XYZreader-master/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_49c4f9c3cd87940beee8e4fc8c898409c9905f90.jar" />
+    </item>
+    <item
+        jar="/Users/ege/Desktop/XYZreader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/ege/Desktop/XYZreader-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_b683aa6f4721272c7e74af20280523f55d5971cf.jar" />
+    </item>
+    <item
+        jar="/Users/ege/Desktop/XYZreader-master/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="ada0ce08c24a9baf9935c63ee7bc0ac887756d66">
+        <dex dex="/Users/ege/Desktop/XYZreader-master/XYZReader/build/intermediates/pre-dexed/debug/instant-run_992a6c2b56e32b7e8f69775dbb50d9c354f2bbff.jar" />
+    </item>
+    <item
+        jar="/Users/ege/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/ege/Desktop/XYZreader-master/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_ba87fb34e8e6a0a26a3ee4cd7f5b3aadea48c6ee.jar" />
+    </item>
+    <item
+        jar="/Users/ege/Desktop/XYZreader-master/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/ege/Desktop/XYZreader-master/XYZReader/build/intermediates/pre-dexed/debug/volley_94250b8d08ee0cdfa27719ab331cbe4b6d71bba2.jar" />
+    </item>
+
+</items>
